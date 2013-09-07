@@ -1,0 +1,8 @@
+setup.py
+django_rq_backend.egg-info/PKG-INFO
+django_rq_backend.egg-info/SOURCES.txt
+django_rq_backend.egg-info/dependency_links.txt
+django_rq_backend.egg-info/requires.txt
+django_rq_backend.egg-info/top_level.txt
+rq_task_backend/__init__.py
+rq_task_backend/backend.py
